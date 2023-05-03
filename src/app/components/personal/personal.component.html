@@ -1,1 +1,21 @@
-<p>personal works!</p>
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Nombre</th>
+        <th>Género</th>
+        <th>Especie</th>
+        <th>Planeta Hogar</th>
+        <th>Ocupación</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let personal of dataPersonal">
+        <td>{{ personal.name.first }} {{personal.name.last}}</td>
+        <td>{{ personal.gender }}</td>
+        <td> {{personal.species}}</td>
+        <td>{{  personal.homePlanet}}</td>
+        <td>{{ personal.occupation}}</td>
+      </tr>
+      
+    </tbody>
+  </table>
