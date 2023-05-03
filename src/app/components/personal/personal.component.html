@@ -1,21 +1,16 @@
-<table class="table table-hover">
-    <thead>
-      <tr>
-        <th>Nombre</th>
-        <th>Género</th>
-        <th>Especie</th>
-        <th>Planeta Hogar</th>
-        <th>Ocupación</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr *ngFor="let personal of dataPersonal">
-        <td>{{ personal.name.first }} {{personal.name.last}}</td>
-        <td>{{ personal.gender }}</td>
-        <td> {{personal.species}}</td>
-        <td>{{  personal.homePlanet}}</td>
-        <td>{{ personal.occupation}}</td>
-      </tr>
-      
-    </tbody>
-  </table>
+<div class="row">
+  <div class="col-md-4" *ngFor="let item of dataPersonal">
+    <div class="thumbnail">
+      <a href={{item.images.main}}>
+        <img src={{item.images.main}} alt="Lights" class="personal">
+
+      </a>
+      <div class="caption">
+        <p>Nombre:{{item.name.first}} {{item.name.last}}</p>
+        <p>Ocupación: {{item.occupation}} </p>
+      </div>
+    </div>
+  </div>
+
+
+</div>
