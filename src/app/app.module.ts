@@ -8,7 +8,8 @@ import { NosotrosComponent } from './components/nosotros/nosotros.component';
 import { PersonalComponent } from './components/personal/personal.component';
 import { HomeComponent } from './components/home/home.component';
 
-import { HttpClientModule } from '@angular/common/http'
+import { HttpClientModule } from '@angular/common/http';
+import { AdministracionComponent } from './components/administracion/administracion.component'
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { HttpClientModule } from '@angular/common/http'
     NavbarComponent,
     NosotrosComponent,
     PersonalComponent,
-    HomeComponent
+    HomeComponent,
+    AdministracionComponent
   ],
   imports: [
     BrowserModule,

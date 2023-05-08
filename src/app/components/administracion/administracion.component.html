@@ -1,0 +1,47 @@
+<form >
+    <div class="mb-3 mt-3">
+      <label for="id" class="form-label">ID:</label>
+      <input type="number" class="form-control" id="id" placeholder="Enter id" #id>
+    </div>
+    <div class="mb-3 mt-3">
+        <label for="nombre" class="form-label">Nombre:</label>
+        <input type="text" class="form-control" id="nombre" placeholder="Enter name" #nom>
+      </div>
+      <div class="mb-3 mt-3">
+        <label for="apellido" class="form-label">Apellido:</label>
+        <input type="text" class="form-control" id="apellido" placeholder="Enter lastname" #ape>
+      </div>
+      <div class="mb-3 mt-3">
+        <label for="email" class="form-label">Email:</label>
+        <input type="email" class="form-control" id="email" placeholder="Enter email" #mail>
+      </div>
+      <div class="mb-3 mt-3">
+        <label for="genero" class="form-label">Género:</label>
+        <input type="text" class="form-control" id="genero" placeholder="Enter gender" #gen>
+      </div>
+    <div class="mb-3">
+      <label for="pais" class="form-label">País:</label>
+      <input type="text" class="form-control" id="pais" placeholder="Enter country" #pais>
+    </div>
+    
+    <!--BOTONES-->
+    <button type="submit" class="btn btn-primary" (click)="guardarNosotros(
+        id.value, nom.value, ape.value, mail.value, gen.value, pais.value
+    )">Guardar</button>
+
+    <button type="submit" class="btn btn-success" (click)="actualizarNosotros(
+        id.value, nom.value, ape.value, mail.value, gen.value, pais.value
+    )">Editar</button>
+
+  </form>
+
+  <hr>
+<h1>Eliminar registros</h1>
+  <form >
+    <div class="mb-3 mt-3">
+      <label for="id" class="form-label">Ingrese el ID del elemento a eliminar:</label>
+      <input type="number" class="form-control" id="id" placeholder="Enter id" #ide>
+    </div>
+
+    <button type="submit" class="btn btn-danger" (click)="eliminarNosotros(ide.value)">Eliminar</button>
+  </form>

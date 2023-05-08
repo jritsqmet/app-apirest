@@ -1,1 +1,23 @@
-<p>nosotros works!</p>
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Apellido</th>
+        <th>Email</th>
+        <th>Género</th>
+        <th>País</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of dataNosotros">
+        <td>{{item.id}}</td>
+        <td>{{item.nombre}}</td>
+        <td>{{item.apellido}}</td>
+        <td>{{item.email}}</td>
+        <td>{{item.genero}}</td>
+        <td>{{item.pais}}</td>
+      </tr>
+     
+    </tbody>
+  </table>

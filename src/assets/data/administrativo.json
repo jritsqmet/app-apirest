@@ -1,0 +1,260 @@
+{
+  "administrativo": [
+    {
+      "id": 1,
+      "nombre": "Bianca",
+      "apellido": "Donwell",
+      "email": "bdonwell0@etsy.com",
+      "genero": "Female",
+      "pais": "Philippines"
+    },
+    {
+      "id": 2,
+      "nombre": "Kathi",
+      "apellido": "Nano",
+      "email": "knano1@tinyurl.com",
+      "genero": "Female",
+      "pais": "Mexico"
+    },
+    {
+      "id": 4,
+      "nombre": "Elly",
+      "apellido": "Vigers",
+      "email": "evigers3@delicious.com",
+      "genero": "Female",
+      "pais": "Greece"
+    },
+    {
+      "id": 5,
+      "nombre": "Deina",
+      "apellido": "MacCumiskey",
+      "email": "dmaccumiskey4@ftc.gov",
+      "genero": "Female",
+      "pais": "Philippines"
+    },
+    {
+      "id": 6,
+      "nombre": "Maegan",
+      "apellido": "Jancy",
+      "email": "mjancy5@freewebs.com",
+      "genero": "Female",
+      "pais": "Botswana"
+    },
+    {
+      "id": 7,
+      "nombre": "Basil",
+      "apellido": "Cassell",
+      "email": "bcassell6@wikipedia.org",
+      "genero": "Male",
+      "pais": "Indonesia"
+    },
+    {
+      "id": 8,
+      "nombre": "Chiquia",
+      "apellido": "Stittle",
+      "email": "cstittle7@mozilla.com",
+      "genero": "Genderqueer",
+      "pais": "Norway"
+    },
+    {
+      "id": 9,
+      "nombre": "Worthy",
+      "apellido": "Cavaney",
+      "email": "wcavaney8@dagondesign.com",
+      "genero": "Male",
+      "pais": "China"
+    },
+    {
+      "id": 10,
+      "nombre": "Janel",
+      "apellido": "Van den Broek",
+      "email": "jvandenbroek9@pen.io",
+      "genero": "Female",
+      "pais": "Argentina"
+    },
+    {
+      "id": 11,
+      "nombre": "Jehu",
+      "apellido": "Castillou",
+      "email": "jcastilloua@webs.com",
+      "genero": "Male",
+      "pais": "Mexico"
+    },
+    {
+      "id": 12,
+      "nombre": "Vera",
+      "apellido": "Jeacock",
+      "email": "vjeacockb@icio.us",
+      "genero": "Female",
+      "pais": "United States"
+    },
+    {
+      "id": 13,
+      "nombre": "Marylin",
+      "apellido": "Code",
+      "email": "mcodec@4shared.com",
+      "genero": "Female",
+      "pais": "Indonesia"
+    },
+    {
+      "id": 14,
+      "nombre": "Lodovico",
+      "apellido": "Goldstone",
+      "email": "lgoldstoned@latimes.com",
+      "genero": "Male",
+      "pais": "China"
+    },
+    {
+      "id": 15,
+      "nombre": "Kala",
+      "apellido": "Florence",
+      "email": "kflorencee@nationalgeographic.com",
+      "genero": "Female",
+      "pais": "China"
+    },
+    {
+      "id": 16,
+      "nombre": "Alan",
+      "apellido": "Kincaid",
+      "email": "akincaidf@constantcontact.com",
+      "genero": "Male",
+      "pais": "Brazil"
+    },
+    {
+      "id": 17,
+      "nombre": "Gypsy",
+      "apellido": "Baglow",
+      "email": "gbaglowg@flickr.com",
+      "genero": "Female",
+      "pais": "Indonesia"
+    },
+    {
+      "id": 18,
+      "nombre": "Noam",
+      "apellido": "Raisbeck",
+      "email": "nraisbeckh@clickbank.net",
+      "genero": "Male",
+      "pais": "Albania"
+    },
+    {
+      "id": 19,
+      "nombre": "Jermayne",
+      "apellido": "Godfray",
+      "email": "jgodfrayi@issuu.com",
+      "genero": "Male",
+      "pais": "France"
+    },
+    {
+      "id": 20,
+      "nombre": "Olin",
+      "apellido": "Garrattley",
+      "email": "ogarrattleyj@dedecms.com",
+      "genero": "Male",
+      "pais": "Albania"
+    },
+    {
+      "id": 21,
+      "nombre": "Fidela",
+      "apellido": "Silverston",
+      "email": "fsilverstonk@zimbio.com",
+      "genero": "Bigender",
+      "pais": "Russia"
+    },
+    {
+      "id": 22,
+      "nombre": "Ardelle",
+      "apellido": "Onthank",
+      "email": "aonthankl@nytimes.com",
+      "genero": "Female",
+      "pais": "China"
+    },
+    {
+      "id": 23,
+      "nombre": "Cooper",
+      "apellido": "Benitez",
+      "email": "cbenitezm@friendfeed.com",
+      "genero": "Male",
+      "pais": "Bhutan"
+    },
+    {
+      "id": 24,
+      "nombre": "Karel",
+      "apellido": "Querrard",
+      "email": "kquerrardn@independent.co.uk",
+      "genero": "Female",
+      "pais": "Poland"
+    },
+    {
+      "id": 25,
+      "nombre": "Pancho",
+      "apellido": "Harty",
+      "email": "phartyo@privacy.gov.au",
+      "genero": "Male",
+      "pais": "Indonesia"
+    },
+    {
+      "id": 26,
+      "nombre": "Yovonnda",
+      "apellido": "Saggers",
+      "email": "ysaggersp@ucoz.ru",
+      "genero": "Female",
+      "pais": "Guinea"
+    },
+    {
+      "id": 27,
+      "nombre": "Tore",
+      "apellido": "Sankey",
+      "email": "tsankeyq@tumblr.com",
+      "genero": "Male",
+      "pais": "China"
+    },
+    {
+      "id": 28,
+      "nombre": "Walt",
+      "apellido": "Stendall",
+      "email": "wstendallr@drupal.org",
+      "genero": "Male",
+      "pais": "Indonesia"
+    },
+    {
+      "id": 29,
+      "nombre": "Gilda",
+      "apellido": "Baltzar",
+      "email": "gbaltzars@scientificamerican.com",
+      "genero": "Female",
+      "pais": "Brazil"
+    },
+    {
+      "id": 30,
+      "nombre": "Milo",
+      "apellido": "Kibard",
+      "email": "mkibardt@cafepress.com",
+      "genero": "Male",
+      "pais": "Japan"
+    },
+    {
+      "id": 31,
+      "nombre": "juan",
+      "apellido": "paz",
+      "email": "jpa@ioas.com",
+      "genero": "Male",
+      "pais": "Ecuador"
+    },
+    {
+      "id": 32,
+      "nombre": "Ana",
+      "apellido": "Guerra",
+      "email": "ang@yopmail.com",
+      "genero": "Female",
+      "pais": "Colombia"
+    },
+    {
+      "id": 33,
+      "nombre": "Jose",
+      "apellido": "Miranda",
+      "email": "mir@adha.com",
+      "genero": "Male",
+      "pais": "Chile"
+    }
+  ]
+}
