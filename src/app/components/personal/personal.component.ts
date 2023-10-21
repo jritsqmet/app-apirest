@@ -6,7 +6,7 @@ import { PersonalService } from 'src/app/servicios/personal.service';
   templateUrl: './personal.component.html',
   styleUrls: ['./personal.component.css']
 })
-export class PersonalComponent {
+//export class PersonalComponent {
 
 
   constructor(private servicio: PersonalService){}
