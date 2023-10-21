@@ -10,7 +10,7 @@ export class PersonalService {
 
   constructor(private http: HttpClient) { }
 
-  private API_PERSONAL= 'https://api.sampleapis.com/futurama/characters'
+  private API_PERSONAL= 'https://randomuser.me/api/?results=10'
 
   //MÉTODO GET
   getPersonal(): Observable <any>{
